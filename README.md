@@ -51,7 +51,6 @@ Since the dataset provided BMI only as categorical ranges (Underweight, Normal, 
 * `requirements.txt`: List of dependencies.
 * `Javvad_LastName2_LastName3_model_info.pkl`: The final trained model artifact.
 
-## 👥 Authors
+## 👥 Author
 * **Dawood Javvad**
-* [Partner Name]
-* [Partner Name]
+
